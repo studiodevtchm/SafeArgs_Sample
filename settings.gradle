@@ -1,0 +1,2 @@
+rootProject.name = "SafeArgs_Sample"
+include ':app'
